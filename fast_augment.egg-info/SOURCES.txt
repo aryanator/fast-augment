@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+fast_augment/__init__.py
+fast_augment/core.py
+fast_augment.egg-info/PKG-INFO
+fast_augment.egg-info/SOURCES.txt
+fast_augment.egg-info/dependency_links.txt
+fast_augment.egg-info/requires.txt
+fast_augment.egg-info/top_level.txt

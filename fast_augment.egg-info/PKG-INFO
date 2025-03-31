@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: fast-augment
+Version: 0.1.2
+Summary: One-command image augmentation
+Home-page: https://github.com/aryanator/fastaugment
+Author: Aryan Patil
+Author-email: aryanator01@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: albumentations>=1.0.0
+Requires-Dist: torchvision
+Requires-Dist: opencv-python
+Requires-Dist: tqdm
+Dynamic: requires-dist
+
 # FastAugment 🚀
 
 One-command image augmentation for computer vision pipelines. Apply transformations with a single function call.

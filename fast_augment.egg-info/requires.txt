@@ -1,0 +1,4 @@
+albumentations>=1.0.0
+torchvision
+opencv-python
+tqdm
