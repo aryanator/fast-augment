@@ -2,9 +2,9 @@
 
 One-command image augmentation for computer vision pipelines. Apply transformations with a single function call.
 
-[![PyPI version](https://img.shields.io/pypi/v/fastaugment)](https://pypi.org/project/fastaugment/)
-[![Python versions](https://img.shields.io/pypi/pyversions/fastaugment)](https://pypi.org/project/fastaugment/)
-[![License](https://img.shields.io/pypi/l/fastaugment)](LICENSE)
+![PyPI version](https://img.shields.io/badge/pypi-v0.1.2-blue)
+![Python versions](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 [![PyPI Downloads](https://static.pepy.tech/badge/fast-augment)](https://pepy.tech/projects/fast-augment)
 
 ## Features
